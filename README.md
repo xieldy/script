@@ -2,13 +2,13 @@
 some config files for linux tools
 
 # filelist
-- .vimrc
+- .vimrc    
 vim配置文件
 使用方法：`cp .vimrc ~/`
 
-- sources.list
+- sources.list    
 apt西电源
-使用方法：
+使用方法：    1
 ```shell
 cp sources.list /etc/apt/
 sudo apt update
